@@ -16,4 +16,4 @@ pip install -r requirements.txt
 playwright install
 
 # プロジェクト実行
-python main.py
+python main_ui.py
